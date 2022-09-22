@@ -2,8 +2,7 @@
 
 <p align="center">
   <img width="500" src="https://media1.giphy.com/media/IoP0PvbbSWGAM/giphy.gif?cid=ecf05e479rl0b1y5vc7czw4pin5rxdgsjzafy2q7e03xy8s4&rid=giphy.gif&ct=g" />  
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+  <h2 align="center">My GitHub Profile </h2>
 </p>
 
 I'm a web developer. I started developing different languages from internships and web development. to enhance the experience to be able to work in the future in response to working in the company Can come and see the work that I can do.
