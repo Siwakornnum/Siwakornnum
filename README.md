@@ -1,7 +1,7 @@
 # Hello I'm Por 🌏
 
 <p align="center">
-  <img width="140" src="https://media1.giphy.com/media/IoP0PvbbSWGAM/giphy.gif?cid=ecf05e479rl0b1y5vc7czw4pin5rxdgsjzafy2q7e03xy8s4&rid=giphy.gif&ct=g" />  
+  <img width="300" src="https://media1.giphy.com/media/IoP0PvbbSWGAM/giphy.gif?cid=ecf05e479rl0b1y5vc7czw4pin5rxdgsjzafy2q7e03xy8s4&rid=giphy.gif&ct=g" />  
   <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </p>
